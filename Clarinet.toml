@@ -1,12 +1,12 @@
 [project]
-name = "lightning-swaps"
-description = "Demonstrates LNSwap's submarine swaps between Stacks and Bitcoin"
+name = "mongerswaps"
+description = "Demonstrates mongerswap's submarine swaps between Stacks and Bitcoin"
 authors = []
 telemetry = true
 cache_dir = "./.cache"
 
-[contracts.stxswap_v10]
-path = "contracts/stxswap_v10.clar"
+[contracts.mongerswaps]
+path = "contracts/mongerswaps.clar"
 clarity_version = 4
 epoch = "latest"
 
