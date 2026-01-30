@@ -1,5 +1,5 @@
 ;; LNSwap - a Submarine Swap implementation in Clarity
-;; source: https://github.com/LNSwap/lnstxbridge/blob/main/contracts/stxswap_v10.clar
+;; source: https://github.com/Larovitchhh/Mongerswaps/edit/main/contracts/mongerswaps.clar
 
 ;; constants
 (define-constant ERR_SWAP_NOT_FOUND (err u1000))
